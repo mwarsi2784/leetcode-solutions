@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 ## Matrix
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
