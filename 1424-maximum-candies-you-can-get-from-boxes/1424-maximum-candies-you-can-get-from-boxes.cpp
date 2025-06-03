@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxCandies(vector<int>& status, vector<int>& candies, vector<vector<int>>& keys, vector<vector<int>>& containedBoxes, vector<int>& initialBoxes) {
         long long ans=0;
-        unordered_set<int> boxes,key,visited,can_open;
+        set<int> boxes,key,visited,can_open;
         for(int i=0;i<status.size();i++){
             if(status[i]==1){
                 key.insert(i);
