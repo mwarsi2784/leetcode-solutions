@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Union Find
 |  |
 | ------- |
@@ -67,8 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
