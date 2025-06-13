@@ -11,7 +11,8 @@ public:
             int mid = left + (right - left) / 2, pairs = 0;
             for (int i = 1; i < n; ++i) {
                 if (mid >= nums[i] - nums[i - 1]) {
-                    ++pairs, ++i;
+                    ++pairs;
+                    ++i;
                 }
             }
             if (pairs >= p) right = mid;
