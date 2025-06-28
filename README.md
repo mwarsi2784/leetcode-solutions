@@ -150,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
