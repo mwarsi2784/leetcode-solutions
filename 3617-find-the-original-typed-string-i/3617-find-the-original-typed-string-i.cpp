@@ -17,10 +17,8 @@ public:
         }
         int ans=1;
         for(int i=0;i<con.size();i++){
-            cout<<con[i]<<"c ";
             int temp=con[i]-1;
             ans=ans+temp;
-            cout<<ans<<" ";
         }
         return ans;
     }
