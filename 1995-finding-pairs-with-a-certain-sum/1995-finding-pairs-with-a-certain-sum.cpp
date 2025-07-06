@@ -1,12 +1,15 @@
 class FindSumPairs {
 public:
     vector<int> arr1,arr2;
-    map<int,int> f;
+    map<int,int> f,f2;
     FindSumPairs(vector<int>& nums1, vector<int>& nums2) {
         arr1=nums1;
         arr2=nums2;
         for(int i=0;i<arr2.size();i++){
             f[arr2[i]]++;
+        }
+        for(int i=0;i<arr1.size();i++){
+            f2[arr1[i]]++;
         }
         return;
     }
@@ -22,8 +25,8 @@ public:
     
     int count(int tot) {
         int ans=0;
-        for(int i=0;i<arr1.size();i++){
-            ans=ans+f[tot-arr1[i]];
+        for(auto i: f2){
+            ans=ans+(i.second)*(f[tot-i.first]);
         }
         return ans;
     }
