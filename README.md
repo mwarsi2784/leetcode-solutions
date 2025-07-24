@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
