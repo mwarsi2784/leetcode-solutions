@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -273,8 +275,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
