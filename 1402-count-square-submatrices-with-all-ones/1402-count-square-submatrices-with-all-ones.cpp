@@ -1,14 +1,20 @@
 class Solution {
 
-    bool fun(vector<vector<int>>& matrix, int k, int row, int col){
-        for(int i=0;i<=k;i++){
-            for(int j=0;j<=k;j++){
-                if(matrix[i+row][j+col]==0){
-                    return false;
+    int fun(vector<vector<int>>& matrix, int row, int col){
+        int k=0;
+        for(k=0;row+k<matrix.size() && k+col<matrix[0].size();k++){
+            for(int i=0;i<=k;i++){
+                if(matrix[row+i][col+k]==0){
+                    return k;
+                }
+            }
+            for(int i=0;i<=k;i++){
+                if(matrix[row+k][col+i]==0){
+                    return k;
                 }
             }
         }
-        return true;
+        return k;
     }
 public:
     int countSquares(vector<vector<int>>& matrix) {
@@ -16,14 +22,8 @@ public:
         for(int i=0;i<matrix.size();i++){
             for(int j=0;j<matrix[i].size();j++){
                 if(matrix[i][j]==1){
-                    for(int k=0;(k+i)<matrix.size() && (k+j)<matrix[i].size();k++){
-                        if(fun(matrix,k,i,j)){
-                            ans++;
-                        }
-                        else{
-                            break;
-                        }
-                    }
+                    int len=fun(matrix,i,j);
+                    ans=ans+len;
                 }
             }
         }
