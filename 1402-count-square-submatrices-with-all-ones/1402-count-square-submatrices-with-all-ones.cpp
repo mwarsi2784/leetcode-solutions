@@ -1,5 +1,4 @@
 class Solution {
-
     int fun(vector<vector<int>>& matrix, int row, int col){
         int k=0;
         for(k=0;row+k<matrix.size() && k+col<matrix[0].size();k++){
