@@ -309,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0867-new-21-game) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
