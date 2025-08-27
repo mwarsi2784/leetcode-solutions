@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Math
 |  |
 | ------- |
@@ -249,10 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Memoization
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
 |  |
 | ------- |
