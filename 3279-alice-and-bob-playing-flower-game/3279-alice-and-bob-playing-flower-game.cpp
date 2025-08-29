@@ -5,20 +5,10 @@ public:
         long even1=0;
         long odd2=0;
         long even2=0;
-        for(int i=1;i<=n;i++){
-            if(i&1){
-                odd1++;
-            }else{
-                even1++;
-            }
-        }
-        for(int i=1;i<=m;i++){
-            if(i&1){
-                odd2++;
-            }else{
-                even2++;
-            }
-        }
+        even1=n/2;
+        even2=m/2;
+        odd1=((n%2)+n)/2;
+        odd2=((m%2)+m)/2;
         return odd2*even1+even2*odd1;
     }
 };
