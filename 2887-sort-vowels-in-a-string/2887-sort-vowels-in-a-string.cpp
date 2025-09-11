@@ -1,27 +1,40 @@
 class Solution {
+
+// Function to check whether a
+// character is vowel or not
+bool fun(char x)
+{
+    if (x == 'a' || x == 'e' || x == 'i' || x == 'o'
+        || x == 'u' || x == 'A' || x == 'E' || x == 'I'
+        || x == 'O' || x == 'U')
+        return true;
+    else
+        return false;
+}
 public:
     string sortVowels(string s) {
-        vector<char> vowels;
-        for (char c : s) {
-            if (isVowel(c)) {
-                vowels.push_back(c);
+        vector<char> temp(s.size());
+        vector<char> vowel;
+        for(int i=0;i<s.size();i++){
+            if(fun(s[i])){
+                vowel.push_back(s[i]);
+                temp[i]='1';
+            }else{
+                temp[i]=s[i];
             }
         }
-
-        sort(vowels.begin(), vowels.end());
-
-        int v_index = 0;
-        for (int i = 0; i < s.size(); i++) {
-            if (isVowel(s[i])) {
-                s[i] = vowels[v_index++];
+        sort(vowel.begin(),vowel.end());
+        int j=0;
+        for(int i=0;i<s.size();i++){
+            if(temp[i]=='1'){
+                temp[i]=vowel[j];
+                j++;
             }
         }
-
-        return s;
-    }
-
-private:
-    bool isVowel(char c) {
-        return string("AEIOUaeiou").find(c) != string::npos;
+        string ans(s.size(),'o');
+        for(int i=0;i<s.size();i++){
+            ans[i]=temp[i];
+        }
+        return ans;
     }
 };
