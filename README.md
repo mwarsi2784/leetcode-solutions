@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0826-soup-servings) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0594-longest-harmonious-subsequence](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
