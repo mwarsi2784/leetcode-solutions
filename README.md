@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0120-triangle) |
 | [0826-soup-servings](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
