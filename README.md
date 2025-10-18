@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
