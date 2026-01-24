@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2402-meeting-rooms-iii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Trie
 |  |
 | ------- |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2023-design-movie-rental-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
@@ -472,4 +477,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
