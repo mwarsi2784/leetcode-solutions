@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0830-largest-triangle-area](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1612-avoid-flood-in-the-city](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
