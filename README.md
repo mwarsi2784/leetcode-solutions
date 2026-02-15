@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
