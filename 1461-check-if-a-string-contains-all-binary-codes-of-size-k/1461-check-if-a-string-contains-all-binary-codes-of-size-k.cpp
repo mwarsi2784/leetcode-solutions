@@ -1,16 +1,20 @@
 class Solution {
 public:
     bool hasAllCodes(string s, int k) {
-        set<string> f;
+        map<string,int> seen;
+        int req=(1<<k);
         if (s.size() < k) return false;
         for(int i=0;i<=s.size()-k;i++){
             string temp(k,'3');
             for(int j=0;j<k;j++){
                 temp[j]=s[i+j];
             }
-            f.insert(temp);
+            if(seen[temp]==0){
+                seen[temp]++;
+                req--;
+            }
         }
-        if(f.size()==(1<<k)){
+        if(req==0){
             return true;
         }
         return false;
