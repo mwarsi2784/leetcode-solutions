@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3618-find-the-original-typed-string-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2023-design-movie-rental-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
@@ -539,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
