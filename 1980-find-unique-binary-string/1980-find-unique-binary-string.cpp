@@ -10,9 +10,10 @@ class Solution {
     } 
 public:
     string findDifferentBinaryString(vector<string>& nums) {
-        vector<int> freq(66000,0);
+        vector<int> freq(17,0);
         for(int i=0;i<nums.size();i++){
-            freq[stringToInt(nums[i])]++;
+            int temp=stringToInt(nums[i]);
+            if(temp<17) freq[temp]++;
         }
         int n=nums.size();
         for(int i=0;i<17;i++){
