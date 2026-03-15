@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2023-design-movie-rental-system) |
 ## Hash Function
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [3790-fruits-into-baskets-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
