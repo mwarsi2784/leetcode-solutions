@@ -4,6 +4,7 @@ public:
     long long mult=1;
     long long mod=1e9+7;
     vector<long long> seq;
+    
 
     long long pow1(long long base, long long exponent) {
         long long result = 1;
@@ -18,7 +19,7 @@ public:
     }
 
     Fancy() {
-        
+        seq.reserve(100000);
     }
     
     void append(int val) {
