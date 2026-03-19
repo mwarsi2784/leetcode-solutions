@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
