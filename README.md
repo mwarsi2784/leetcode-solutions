@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
