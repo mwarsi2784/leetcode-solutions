@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3643-flip-square-submatrix-vertically](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3643-flip-square-submatrix-vertically](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
