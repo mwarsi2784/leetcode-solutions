@@ -2,28 +2,24 @@ class Solution {
 public:
     bool checkStrings(string s1, string s2) {
         int n=s1.size();
-        string s1even(n/2+(n&1),'.');
-        string s2even(n/2+(n&1),'.');
-        string s1odd(n/2,',');
-        string s2odd(n/2,',');
-        int odd=0;
-        int even=0;
+        vector<int> s1even(26,0),s2even(26,0),s1odd(26,0),s2odd(26,0);
         for(int i=0;i<n;i++){
             if(i&1){
-                s1odd[odd]=s1[i];
-                s2odd[odd]=s2[i];
-                odd++;
+                s1odd[s1[i]-'a']++;
+                s2odd[s2[i]-'a']++;
             }else{
-                s1even[even]=s1[i];
-                s2even[even]=s2[i];
-                even++;
+                s1even[s1[i]-'a']++;
+                s2even[s2[i]-'a']++;
             }
         }
-        sort(s1even.begin(),s1even.end());
-        sort(s2even.begin(),s2even.end());
-        sort(s1odd.begin(),s1odd.end());
-        sort(s2odd.begin(),s2odd.end());
-
-        return (s1even==s2even) && (s1odd==s2odd);
+        for(int i=0;i<26;i++){
+            if(s1odd[i]!=s2odd[i]){
+                return false;
+            }
+            if(s1even[i]!=s2even[i]){
+                return false;
+            }
+        }
+        return true;
     }
 };
