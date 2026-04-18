@@ -7,9 +7,7 @@ public:
             int rem=temp%10;
             mirr=mirr*10+rem;
             temp=temp/10;
-            //cout<<mirr<<" ";
         }
-        //cout<<mirr;
         return abs(n-mirr);
     }
 };
