@@ -16,11 +16,13 @@ int fun(vector<int>& nums, int i, int j, int target){
 
 public:
     int maxDistance(vector<int>& nums1, vector<int>& nums2) {
+        int n1=nums1.size();
+        int n2=nums2.size();
         int ans=0;
-        for(int i=0;i<nums2.size();i++){
-            int n=nums1.size()-1;
-            int ind=fun(nums1,0,min(i,n),nums2[i]);
-            if(ind!=-1) ans=max(ans,i-ind);
+        for(int i=0,j=0;i<n1 && j<n2;){
+            if(i<=j && nums1[i]<=nums2[j]) ans=max(ans,j-i), j++;
+            else if(i<=j) i++;
+            else j++;
         }
         return ans;
     }
