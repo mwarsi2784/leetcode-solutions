@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
