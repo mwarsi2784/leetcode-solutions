@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2906-construct-product-matrix](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2906-construct-product-matrix) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2540-minimum-common-value](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
