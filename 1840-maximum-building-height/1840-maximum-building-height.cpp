@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxBuilding(int n, vector<vector<int>>& restrictions) {
             restrictions.push_back({1, 0});
-            restrictions.push_back({n, n });
+            restrictions.push_back({n, n});
 
             sort(restrictions.begin(), restrictions.end());
 
