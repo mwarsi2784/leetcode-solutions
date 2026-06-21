@@ -1,3 +1,4 @@
+vector<long long> freq(100000+1,0);
 class Solution {
 public:
     int maxIceCream(vector<int>& s, int coins) {
@@ -5,7 +6,7 @@ public:
         int ret=0;
         int n=s.size();
         int mx=0;
-        vector<long long> freq(100000+1,0);
+        freq.assign(freq.size(), 0);
         for(int i=0;i<n;i++){
             mx=max(mx,s[i]);
             freq[s[i]]++;
