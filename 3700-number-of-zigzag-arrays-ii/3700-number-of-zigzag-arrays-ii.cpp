@@ -76,9 +76,3 @@ public:
         return 2LL * reduce(P.begin(), P.end(), 0LL) % mod;
     }
 };
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
