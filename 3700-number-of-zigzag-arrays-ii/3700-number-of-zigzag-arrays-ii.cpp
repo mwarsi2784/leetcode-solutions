@@ -2,7 +2,6 @@ constexpr int mod = 1e9 + 7;
 using matrix = vector<int>;
 static int m, m2;
 static inline matrix operator*(const matrix& A, const matrix& B) {
-    // all matrix size m*m
     matrix C(m2, 0);
     for (int i = 0; i < m; i++) {
         for (int k = 0; k < m; k++) {
@@ -16,10 +15,10 @@ static inline matrix operator*(const matrix& A, const matrix& B) {
     }
     return C;
 }
-// matrix A*B=B*A with A, B symmetric=> A*B symmetric
+
 static inline matrix symMul(const matrix& A, const matrix& B) {
     matrix C(m2, 0);
-    for (int i = 0; i < m; i++) { // compute the lower triangle part
+    for (int i = 0; i < m; i++) { 
         for (int j = 0; j <= i; j++) {
             long long dotSum = 0;
             for (int k = 0; k < m; k++) {
