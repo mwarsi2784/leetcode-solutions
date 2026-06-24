@@ -1,5 +1,4 @@
 constexpr int mod = 1e9 + 7;
-// using 1D vector to denote the compressed form: a[i*m+j]=m[i][j]
 using matrix = vector<int>;
 static int m, m2;
 static inline matrix operator*(const matrix& A, const matrix& B) {
