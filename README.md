@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3714-longest-balanced-substring-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1622-fancy-sequence) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -685,8 +690,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
