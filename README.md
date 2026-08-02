@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3234-count-the-number-of-substrings-with-dominant-ones](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3234-count-the-number-of-substrings-with-dominant-ones) |
 | [3396-valid-word](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3618-find-the-original-typed-string-ii) |
