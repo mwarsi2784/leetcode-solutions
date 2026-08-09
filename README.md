@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [1018-largest-perimeter-triangle](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1895-largest-magic-square](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -704,4 +708,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mwarsi2784/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
