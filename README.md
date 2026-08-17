@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1563-stone-game-v](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1622-fancy-sequence) |
 | [1642-water-bottles](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1563-stone-game-v](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
