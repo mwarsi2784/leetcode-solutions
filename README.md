@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1872-stone-game-viii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1895-largest-magic-square](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1872-stone-game-viii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -715,13 +719,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
