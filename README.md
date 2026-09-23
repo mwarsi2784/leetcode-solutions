@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1833-maximum-ice-cream-bars](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1980-find-unique-binary-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1872-stone-game-viii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1895-largest-magic-square](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1895-largest-magic-square) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mwarsi2784/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1612-avoid-flood-in-the-city](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/mwarsi2784/leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
