@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1980-find-unique-binary-string](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1980-find-unique-binary-string) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mwarsi2784/leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
